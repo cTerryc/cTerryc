@@ -1,5 +1,5 @@
-### Hola mi nombre es Daniel Martel👋
-## pero puedes llamarme Terry!
+# Hola mi nombre es Daniel Martel👋
+### pero puedes llamarme Terry!
 
 <!--
 **cTerryc/cTerryc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
