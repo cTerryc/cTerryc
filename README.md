@@ -1,6 +1,8 @@
 # Hola mi nombre es Daniel Martel👋
-### pero puedes llamarme Terry!
+### conocido como Terry!
 
+Quien soy❓
+Soy un programador FullStack
 <!--
 **cTerryc/cTerryc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
