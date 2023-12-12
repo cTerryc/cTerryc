@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cterryc" alt="cterryc" /></a> </p>
 
-- 🔭Actualmente estoy trabajando en **Portfolio**
+- 🔭Actualmente estoy trabajando en **Aythen1**
 
-- 🌱 Recientemente estoy aprendiendo **Redux-Toolkit, Framer Motion y Material-UI**
+- 🌱 Recientemente estoy aprendiendo **Framer Motion y Material-UI**
 
-- 👨‍💻 Puedes ver todos mis poyectos en [muy pronto subire mi porfolio aqui](muy pronto subire mi porfolio aqui)
+- 👨‍💻 Puedes ver todos mis poyectos en <a href="https://martel.vercel.app">https://martel.vercel.app</a>
 
-- 💬 Pregúntame sobre **React.Js, Node.Js, Sequelize.Js, PostgreSQL, JavaScript**
+- 💬 Pregúntame sobre **React.Js, Node.Js, Sequelize.Js, PostgreSQL, JavaScript, Express.js, Redux**
 
 - 📫 Como contactarme **danyel.martel@gmail.com**
 
-- 📄 Conoce mis experiencias [aqui ira un link con el resumen de mis experiencias](aqui ira un link con el resumen de mis experiencias)
+- 📄 Conoce mis experiencias <a href="https://rxresu.me/danyel.martel/cv-definitivo">C.V.</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
