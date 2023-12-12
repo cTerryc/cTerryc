@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/developer-martel" target="blank"><img width="96" height="96" src="https://img.icons8.com/fluency/96/linkedin.png" alt="linkedin"/></a>
+<a href="https://www.linkedin.com/in/developer-martel" target="blank"><img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/></a>
 </p>
 
 </p>
