@@ -1,5 +1,5 @@
 <h1 align="center">Hola👋, Soy Daniel Martel</h1>
-<h3 align="center">Soy de Perú y me apasiona la Programación y al ensamblaje de PC</h3>
+<h3 align="center">Soy de Perú y me apasiona la Programación y el ensamblaje de PC</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cterryc&label=Profile%20views&color=0e75b6&style=flat" alt="cterryc" /> </p>
 
