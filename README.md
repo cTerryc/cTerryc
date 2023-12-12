@@ -19,9 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/developer-martel" target="blank"><img align="center" src="https://iconos8.es/icon/xuvGCOXi8Wyg/linkedin" alt="https://www.linkedin.com/in/developer-martel" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/developer-martel" target="blank"><img align="center" src="https://github.com/cterryc/cTerryc/assets/105363610/6ba3a0b3-bb86-452d-a8f2-33f925bec632" alt="https://www.linkedin.com/in/developer-martel" height="30" width="40" /></a>
 </p>
-![image](https://github.com/cterryc/cTerryc/assets/105363610/18fe8ceb-3863-490a-ab9c-992231feeea3)
 
 </p>
 <h3 align="left">Languages and Tools:</h3>
